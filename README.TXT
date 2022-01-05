@@ -1,5 +1,7 @@
-Change++ Developer Coding Challenge
-Author: Siddharth Shah (Freshman)
+Author: Siddharth Shah
+Full Stack Development Personal Project
+
+WATCH "videoProof" for sample execution
 
 To Execute:
 
@@ -23,7 +25,7 @@ Code Outline:
 
 Comments
 
- - Easily spent 10+ hours total on this coding assignment
+ - Easily spent 15+ hours total
  - Attempted using Selenium+ChromeDriver for scraping but couldn't resolve PATH issues
  - Used various youtube and google tutorials to teach myself Express, BeautifulSoup,
 	React frameworks, and React DnD
